@@ -26,7 +26,7 @@ My professional interests are at the intersection of **business, operations and 
 
 ## Projects
 
-🚧 This portfolio is currently under development.
+This portfolio is currently under development.
 
 More projects in Python, SQL and data analytics will be added soon.
 
